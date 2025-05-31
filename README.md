@@ -1,3 +1,7 @@
+## code
+
+crc32-ieee 802.3的打表实现
+
 
 ## script
 
