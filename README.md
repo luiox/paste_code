@@ -1,2 +1,7 @@
-# paste_code
-store some small but usefull code
+
+## script
+
+一些可能用的上的脚本
+
+charset_convert.py: 批量把一些文件转换到特定编码
+
